@@ -1,4 +1,4 @@
-# Upload instructions
+# Instructions
 1. Register a Github account and email me the account name. I will add you as a project collaborator.
 2. Make sure that your solution is correct. If you have any questions, feel free to discuss with me during the office hour.
 3. Upload your homework solutions in the "Homework Solutions" folder. Please put all files in a subfolder named "Week x".
