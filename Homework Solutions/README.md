@@ -6,3 +6,5 @@
   - [Here](https://blog.reviewnb.com/github-jupyter-notebook/) is a tutorial on how to upload files using Git in command-line.
 4. Commit your changes to a new branch and start a pull request.
 5. I will review your commit and merge the changes to the main branch.
+
+**You still need to submit the solution to Blackboard to receive grades.**
