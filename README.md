@@ -7,4 +7,8 @@
 ## Installing Anaconda Python
 1. Download <a href="https://www.anaconda.com/products/individual">Anaconda Individual Edition</a>. Make sure to choose the correct option based on your operation system. 
 2. Start the installer. It is recommended to use a path that does not contain any spaces.
-3. After installation, you can create IPython notebooks using **Jupyter Notebook**. There are other useful applications that can be found in **Anaconda Navigator**.
+3. After installation, you can create IPython notebooks using **Jupyter Notebook**. 
+  - Navigate to a folder in which you want to store .ipynb files.
+  - Click "New" -> "Python3" to create a new notebook.
+  - Start coding!
+There are other useful applications that can be found in **Anaconda Navigator**.
